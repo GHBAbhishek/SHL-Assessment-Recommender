@@ -39,3 +39,8 @@ The solution uses a hybrid recommendation strategy combining:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## Live Application
+The project is deployed and accessible at: https://shl-skillfit-recommender.streamlit.app/
+
