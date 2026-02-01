@@ -9,3 +9,5 @@ class Assessment(BaseModel):
     industry: str
     test_type: str
     duration_minutes: int
+
+
