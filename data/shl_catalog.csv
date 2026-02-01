@@ -1,0 +1,21 @@
+assessment_id,assessment_name,skills,job_level,industry,test_type,duration_minutes
+A101,Python Programming Test,"Python, OOP, Data Structures",Entry,Technology,Technical,45
+A102,Cognitive Ability Test,"Logical Reasoning, Problem Solving",Entry,General,Cognitive,30
+A103,Leadership Potential,"Decision Making, Communication",Senior,Management,Behavioral,40
+A104,Data Analysis Test,"Data Analysis, SQL, Excel",Mid,Finance,Technical,50
+A105,Sales Aptitude Test,"Sales Techniques, Customer Relations",Entry,Sales,Behavioral,35
+A106,Project Management Test,"Project Planning, Risk Management",Senior,Management,Technical,60
+A107,Emotional Intelligence Test,"Self-awareness, Empathy",Mid,General,Behavioral,25
+A108,Java Programming Test,"Java, OOP, Algorithms",Mid,Technology,Technical,45
+A109,Marketing Skills Test,"Digital Marketing, SEO, Content Creation",Entry,Marketing,Technical,40
+A110,Customer Service Test,"Communication, Problem Solving",Entry,Customer Service,Behavioral,30
+A111,Advanced Excel Test,"Excel, Data Visualization, Formulas",Mid,Finance,Technical,50
+A112,Time Management Test,"Prioritization, Scheduling",Entry,General,Behavioral,20
+A113,Network Security Test,"Cybersecurity, Network Protocols",Senior,Technology,Technical,55
+A114,Creative Thinking Test,"Innovation, Brainstorming",Mid,General,Behavioral,30
+A115,SQL Programming Test,"SQL, Database Management",Mid,Technology,Technical,45
+A116,Conflict Resolution Test,"Mediation, Negotiation",Senior,Management,Behavioral,35
+A117,Statistical Analysis Test,"Statistics, R Programming",Mid,Finance,Technical,50
+A118,Team Collaboration Test,"Teamwork, Communication",Entry,General,Behavioral,25
+A119,Web Development Test,"HTML, CSS, JavaScript",Entry,Technology,Technical,40
+A120,Adaptability Test,"Flexibility, Open-mindedness",Entry,General,Behavioral,20
